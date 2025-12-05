@@ -404,11 +404,5 @@ For issues or questions:
 2. Review AWS service documentation
 3. Check Terraform state: `terraform show`
 
-## 📄 License
-
-[Specify your license here]
-
----
-
 **Last Updated**: 2024
 
